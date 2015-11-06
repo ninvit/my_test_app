@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  etrack_id: MyString
+  abb_title: MyString
+  country_id: 
+
+two:
+  etrack_id: MyString
+  abb_title: MyString
+  country_id: 
